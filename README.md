@@ -8,4 +8,4 @@
 # Links #
 * [ROUGE 2.0 Home](http://kavita-ganesan.com/content/rouge-2.0)
 * [ROUGE 2.0 Documentation](http://kavita-ganesan.com/content/rouge-2.0-documentation)
-* [Download ROUGE 2.0 Java Package](https://bitbucket.org/kganes2/rouge-2.0/downloads)
+* [Download ROUGE 2.0 Java Package](https://github.com/kganes2/ROUGE2.0/blob/master/rouge2.0-distribution.zip)
